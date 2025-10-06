@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>CodeStories</title>
+</head>
+<body>
+
+  <header>
+    <h1>CodeStories</h1>
+    <p>Log your daily coding moments — auto-expiring in 24 hours.</p>
+
+  </header>
+ <main>
+
+  <section>
+    <h2>Post a CodeStory</h2>
+    <form>
+      <label for="date">Date:</label>
+      <input type="date" id="date" name="date">
+
+      <label for="summary">Summary:</label>
+      <textarea id="summary" name="summary" rows="5" cols="50"></textarea>
+
+      <label for="expire">Auto-expire after:</label>
+      <select id="expire" name="expire">
+        <option value="24">24 hours</option>
+        <option value="48">48 hours</option>
+        <option value="72">72 hours</option>
+      </select>
+
+      <button type="submit">Post Story</button>
+    </form>
+  
+  </section>
+
+  <section>
+    <h2>Recent CodeStories</h2>
+    <article>
+      <h3>Day 2: Built CodeSnaps Module</h3>
+      <p>Fahmid shared this 6 hours ago — auto-expiring in 18 hours</p>
+    </article>
+  </section>
+
+</main>
+    <footer>
+    <p>&copy; 2025 fahm.codes</p>
+  </footer>
+
+</body>
+</html>
