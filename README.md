@@ -42,6 +42,6 @@ Codebook হলো একটি distraction-free কোডিং সোশ্য
 ## 🖋️ Branding
 
 `© 2025 fahm.codes`  
-Built by Fahmid Hasan Sunny  
-GitHub: [@fahmidsunnny](https://github.com/fahmidsunnny)
+Built by Fahmid Hasan Sunny  & Sabbir Hasan Emon
+GitHub: [@me-fahmid](https://github.com/me-fahmid)
 
